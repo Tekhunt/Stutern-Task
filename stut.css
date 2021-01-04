@@ -1,0 +1,81 @@
+/*this is my css code*/
+.flex-container{
+  background-color: lightgrey;
+  color: #555;
+  font-family: 'Vollkorn',serif;
+  font-size: 1.1rem;
+
+}
+.footnav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+h3 b {
+  font-weight: bold;
+}
+.mynav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.mynav li a
+{
+  text-decoration: none;
+  float: left;
+}
+
+a{
+  text-decoration: none;
+  color: #AED6F1
+}
+
+h5 i{
+  color: #AED6F1;
+}
+
+span:hover{
+  color: #3498DB;
+}
+
+.footer, a:hover{
+  color: 	#3498DB;
+
+}
+
+.mynav li a {
+  display: block;
+  padding: 8px;
+}
+
+.flex-container{
+  max-width: 700px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
+
+.para{
+  line-height: 1.7;
+  font-weight: 500;
+
+
+}
+
+.short-hr{
+  margin-left: 0px;
+  width: 5%;
+  text-align: left;
+
+}
+
+.footer{
+  color: #AED6F1;
+}
+
+.footer:hover{
+  color: 	#3498DB;
+}
